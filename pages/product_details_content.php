@@ -1,5 +1,4 @@
 <?php
-	
 	$product_id=$_GET['product_id'];
 	
 	$query_result=$obj_application->product_details_by_product_id($product_id);
@@ -74,7 +73,7 @@
       <div class="clearfix"> </div>
      </div>
        <div class="toogle">
-     	<h2>Product Details</h2>
+     	<h1>Product Details</h1>
      	<p class="m_text2"><?php echo $product_details['product_short_description']; ?></p>
      </div>
      <div class="toogle">
