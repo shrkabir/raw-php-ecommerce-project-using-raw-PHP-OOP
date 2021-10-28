@@ -2,7 +2,7 @@ This is an ecommerce application built with RAW PHP. It has two part. Customer e
 
 Admin end part is for admins to manage the application. After login the admin panel admin can add category, edit category, delete category, publish-unpublish category, add new product, edit product, delete product, publish-unpublish product etc.
 
-<h4>Screenshots of different features and pages of this application given below.</h4>
+<h3>(Screenshots of different features and pages of this application given below.)</h3>
 <h3>Home page</h3>
 <img src="screenshot_images/Homepage_1.JPG" width="850" height="500">
 <h3>Homepage scroll down part</h3>
